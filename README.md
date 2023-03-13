@@ -1,3 +1,17 @@
+# Setup AnyDesk for unattended access
+
+## Install AnyDesk
+
+- Sign in to ```MI account```.
+
+- Install [AnyDesk](https://github.com/DmitriyLobchuk/anydesk/raw/main/anydesk-6-3-0.apk).
+
+- Open AnyDesk and give all permissions for this application.
+
+- Go to ```"Settings"``` - ```"Security"``` - ```"Enable Unattended Access"``` - ```"Set password for unattended access"```.
+
+- Enter password what u want and remember it.
+
 ## How to get rid of the the "Exposing sensitive info during casting/recording" warning for AnyDesk on Android device
 
 ### Setup Your Android Device for ````ADB````
