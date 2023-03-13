@@ -30,7 +30,7 @@
 
 - Firstly, download the [ADB Platform Tools for Windows](https://dl.google.com/android/repository/platform-tools-latest-windows.zip) from Google’s official page. Once downloaded, extract the contents of this file on your Windows PC.
 
-- Extract the contents of the ZIP file to ```disk C```.
+- Extract the contents of the ZIP file to ```C DRIVE```.
 
 - Open this folder with ```"Explorer"``` and, while holding down ```Shift```, right-click.
 
