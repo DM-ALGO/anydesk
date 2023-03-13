@@ -1,4 +1,4 @@
-## How to get rid of the the "Exposing sensitive info during casting/recording" warning for Android devices
+## How to get rid of the the "Exposing sensitive info during casting/recording" warning for AnyDesk on Android device
 
 ### Setup Your Android Device for ````ADB````
 
