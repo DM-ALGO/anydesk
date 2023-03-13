@@ -34,18 +34,20 @@
 
 - Download [App Ops](https://play.google.com/store/apps/details?id=rikka.appops&hl=en_US) and [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=en_US)
 
-- Open Shizuku
+- Open Shizuku.
 
 - Follow the instructions at the [top](https://imgur.com/QVgfQhh) using adb commands.
 
-- Install
+- Go to ```PowerShell``` window on your Windows PC.
 
-- Go back to App Ops and choose Shizuku mode, then press Continue
+- Enter code from Shizuku to command line in ```PowerShell```.
 
-- Search ```ANYDESK```
+- Go back to App Ops and choose Shizuku mode, then press Continue.
 
-- Scroll down to the bottom and find ```project media```
+- Search ```ANYDESK```.
 
-- Change to ```Allow``` or ```Allow Only While Using the App```
+- Scroll down to the bottom and find ```project media```.
 
-- Test
+- Change to ```Allow``` or ```Allow Only While Using the App```.
+
+- Test.
