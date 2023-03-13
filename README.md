@@ -26,7 +26,7 @@
 
 ##
 
-### Install ```ADB``` on Windows
+### Install ADB on Windows
 
 - Firstly, download the [ADB Platform Tools for Windows](https://dl.google.com/android/repository/platform-tools-latest-windows.zip) from Google’s official page. Once downloaded, extract the contents of this file on your Windows PC.
 
